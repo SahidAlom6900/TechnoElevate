@@ -1,0 +1,14 @@
+
+l
+java:S1481	"4Remove this unused "streamGenerated" local variable.(ë¹¤şÿÿÿÿ8©Ü“æ¾/Hú	RMINORZ
+CODE_SMELL
+c
+java:S3958	"2Refactor the code so this stream pipeline is used.(ë¹¤şÿÿÿÿ8©Ü“æ¾/Hû	RMAJORZBUG
+^
+java:S1612",Replace this lambda with a method reference.(›Äë{8è¾æ¾/H÷	RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(›Äë{8® ‰æ¾/Hö	RMAJORZ
+CODE_SMELL
+{
+java:S1854	"CRemove this useless assignment to local variable "streamGenerated".(ë¹¤şÿÿÿÿ8©Ü“æ¾/Hù	RMAJORZ
+CODE_SMELL

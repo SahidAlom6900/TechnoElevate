@@ -1,0 +1,9 @@
+
+T
+java:S1659"!Declare "sum" on a separate line.(ÖÕê²8¸•ÅêÀ/H±RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ùü »úÿÿÿÿ8‹ËÆêÀ/H²RMAJORZ
+CODE_SMELL
+R
+java:S1659"Declare "k" on a separate line.(ÖÕê²8¸•ÅêÀ/H³RMINORZ
+CODE_SMELL

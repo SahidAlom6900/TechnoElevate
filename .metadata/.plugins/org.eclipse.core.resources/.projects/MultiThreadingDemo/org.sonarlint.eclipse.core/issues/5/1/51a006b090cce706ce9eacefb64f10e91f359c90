@@ -1,0 +1,20 @@
+
+e
+java:S1108"2Move this "catch" keyword to a new dedicated line.(ä ¹€8æ°ŒšÀ/H¹RMINORZ
+CODE_SMELL
+x
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÀáÌ«8€òÇ™À/HºRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Î­´å8áò¾™À/H»RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ºÇÖ´8áò¾™À/H¼RMAJORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8æ°ŒšÀ/H½RMAJORZBUG
+x
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ëÔâ¿8€òÇ™À/H¾RMINORZ
+CODE_SMELL
+\
+java:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ8æ°ŒšÀ/H¿RMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‡íÝª8Î¡¦™À/HÀRMAJORZ
+CODE_SMELL

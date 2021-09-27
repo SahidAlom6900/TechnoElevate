@@ -1,0 +1,14 @@
+package com.technoelevate.multithreading;
+
+import com.technoelevate.multithreading.classes.MyThread;
+
+public class MultiThreadingDemo {
+
+	public static void main(String[] args) {
+		MyThread mt=new MyThread();
+		mt.start();
+		for(char i='A';i<='Z';i++) {
+			System.out.print(i+" ");
+		}
+	}
+}

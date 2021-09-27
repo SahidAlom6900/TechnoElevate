@@ -1,0 +1,26 @@
+package com.technoelevate.multithreading.classes;
+
+public class PrintingThreadDemo extends Thread {
+	int x;
+	int y;
+	Printing printing;
+	
+
+	public PrintingThreadDemo(int x, int y) {
+		this.x = x;
+		this.y = y;
+		this.printing = new Printing();
+	}
+
+
+	@Override
+	public void run() {
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		printing.print(x,y);
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.technoelevate.JUnitDemo;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+public class AppTest {
+	@org.junit.jupiter.api.Test
+	public void testApp() {
+		assertTrue(false);
+	}
+}

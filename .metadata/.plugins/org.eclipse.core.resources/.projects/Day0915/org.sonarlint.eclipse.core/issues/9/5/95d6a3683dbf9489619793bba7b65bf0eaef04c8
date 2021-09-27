@@ -1,0 +1,36 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÔ®ä8Æ…Á¾/HÑRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ò³™«øÿÿÿÿ8Æ…Á¾/HÖRMAJORZ
+CODE_SMELL
+d
+java:S11084"1Move this "else" keyword to a new dedicated line.(ÔÍØ8ì•¾Ã¾/HïRMINORZ
+CODE_SMELL
+k	java:S1065"9Replace this use of System.out or System.err by a logger.(¡ıª…8ßÎÁ¾/HşRMAJORZ
+CODE_SMELL
+
+java:S39734"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8ì•¾Ã¾/HğRCRITICALZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(©Û´£üÿÿÿÿ8Æ…Á¾/HÎRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.( ûÔ°ıÿÿÿÿ8Æ…Á¾/HÒRMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(Áªø8Æ…Á¾/HÕRMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(¡ıª…8‡Ú‡Á¾/HáRMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(©Û´£üÿÿÿÿ8Æ…Á¾/HÍRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÎ§àúÿÿÿÿ8Æ…Á¾/HÔRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8Æ…Á¾/HÓRMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(—ÿˆ×ÿÿÿÿÿ8é™šÁ¾/HôRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(£™æ‚øÿÿÿÿ8Æ…Á¾/HĞRMAJORZ
+CODE_SMELL
+`
+java:S14817"(Remove this unused "str" local variable.(‚€ñ„ıÿÿÿÿ8º‡¤Æ¾/HÿRMINORZ
+CODE_SMELL

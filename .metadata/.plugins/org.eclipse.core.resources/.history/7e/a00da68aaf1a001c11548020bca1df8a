@@ -1,0 +1,7 @@
+package com.technoelevate.java8.inter;
+
+import com.technoelevate.java8.cla.Student;
+
+public interface StudentInter {
+Student getStudent(int index);
+}

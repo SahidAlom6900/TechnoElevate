@@ -1,0 +1,13 @@
+package com.technoelevate.JUnitDemo;
+
+import org.junit.jupiter.api.Test;
+
+import junit.framework.TestCase;
+
+public class MathUtilTest extends TestCase{
+	@Test
+	public void addTest() {
+		MathUtil mathUtil = new MathUtil();
+		assertEquals(10, mathUtil.add(1, 9));
+	}
+}

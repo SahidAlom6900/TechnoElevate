@@ -1,0 +1,26 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8Àşõ“¿/HÊRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ş›‹8ş¿ñ“¿/HÉRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷¥Âïıÿÿÿÿ8ş¿ñ“¿/HàRMINORZ
+CODE_SMELL
+U
+java:S2386"Make this member "protected".(÷¥Âïıÿÿÿÿ8Ëñš•¿/HáRMINORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.TreeSet'.(½îB8Ëñš•¿/HâRMINORZ
+CODE_SMELL
+§
+java:S1319"oThe type of the "hashSet" object should be an interface such as "Set" rather than the implementation "HashSet".(÷¥Âïıÿÿÿÿ8Ëñš•¿/HãRMINORZ
+CODE_SMELL
+ 
+java:S1319"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ÚÒÄÅ8Ëñš•¿/HäRMINORZ
+CODE_SMELL
+‹
+java:S1104"SMake hashSet a static final constant or non-public and provide accessors if needed.(÷¥Âïıÿÿÿÿ8Ëñš•¿/HåRMINORZ
+CODE_SMELL
+e
+java:S1444"-Make this "public static hashSet" field final(÷¥Âïıÿÿÿÿ8Ëñš•¿/HæRMINORZ
+CODE_SMELL

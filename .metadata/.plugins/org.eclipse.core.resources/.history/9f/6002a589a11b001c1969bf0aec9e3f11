@@ -1,0 +1,22 @@
+package com.technoelevate.cla;
+
+public class DeadLockMain {
+
+	public static void main(String[] args) {
+
+		Godown godown = new Godown(100);
+		Customer customer = new Customer(80, godown);
+		customer.start();
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		int quantity = godown.getQuantity();
+		System.out.println(quantity);
+		Customer customer1 = new Customer(40, godown);
+		customer1.start();
+	}
+
+}

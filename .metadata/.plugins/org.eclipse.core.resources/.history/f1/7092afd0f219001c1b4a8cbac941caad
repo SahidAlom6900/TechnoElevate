@@ -1,0 +1,9 @@
+package com.technoelevate.multithreading.classes;
+
+public class Account {
+	
+	public void deposite() {
+		
+	}
+
+}

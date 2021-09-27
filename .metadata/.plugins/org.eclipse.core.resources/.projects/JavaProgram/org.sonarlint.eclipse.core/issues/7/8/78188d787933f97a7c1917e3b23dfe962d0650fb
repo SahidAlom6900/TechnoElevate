@@ -1,0 +1,14 @@
+
+c
+java:S1481"+Remove this unused "number" local variable.(‘Òþ–ýÿÿÿÿ8×†òêÀ/H¼RMINORZ
+CODE_SMELL
+j
+java:S3518";Make sure "sum" can't be zero before doing this modulation.(¾ñãÈ8×†òêÀ/H½RCRITICALZBUG
+Y
+java:S1659"!Declare "sum" on a separate line.( ™²ïýÿÿÿÿ8×†òêÀ/HÀRMINORZ
+CODE_SMELL
+r
+java:S1854":Remove this useless assignment to local variable "number".(‘Òþ–ýÿÿÿÿ8×†òêÀ/HÁRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Á¾Ò‰8×†òêÀ/HÂRMAJORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+package com.technoelevate.JUnitDemo;
+
+public class MathUtil {
+	public int add(int a, int b) {
+		return a + b;
+	}
+	public double area(double r) {
+		System.out.println(Math.PI);
+		return Math.PI*r*r;
+	}
+}

@@ -1,0 +1,11 @@
+
+p
+java:S1197
+"8Move the array designator from the variable to the type.(ÙÄ›éùÿÿÿÿ8¿î¿ã¿/HÉRMINORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(ÉïøŸüÿÿÿÿ8¿î¿ã¿/HÊRMINORZ
+CODE_SMELL
+r
+java:S1118":Add a private constructor to hide the implicit public one.(¦˜åşÿÿÿÿ8ˆ»õ¿/HËRMAJORZ
+CODE_SMELL

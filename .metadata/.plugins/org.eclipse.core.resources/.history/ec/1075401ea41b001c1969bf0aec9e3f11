@@ -1,0 +1,33 @@
+package com.technoelevate.cla;
+
+public class DeadLockMain {
+
+	public static void main(String[] args) {
+
+		Godown godown = new Godown(100);
+		Customer customer = new Customer(80, godown);
+		System.out.println("Customer Purchesed Successfully>>>");
+		customer.start();
+		try {
+			Thread.sleep(100);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		int quantity = godown.getQuantity();
+		System.out.println("Remaining Quantity : "+quantity);
+		Customer customer1 = new Customer(40, godown);
+		System.out.println("Customer Purchesed Successfully>>>");
+		customer1.start();
+		Manufacture manufacture = new Manufacture(100, godown);
+		System.out.println("After Adding Quantity");
+		manufacture.start();
+		try {
+			Thread.sleep(100);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		int quantity1 = godown.getQuantity();
+		System.out.println("Remaining Quantity : "+quantity1);
+	}
+
+}

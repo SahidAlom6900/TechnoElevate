@@ -1,0 +1,39 @@
+package com.technoelevate.main;
+
+import java.util.Iterator;
+
+import com.technoelevate.classes.MyArray;
+
+public class MyArrayList {
+
+	public static void main(String[] args) {
+
+		MyArray myArray = new MyArray(9);
+		myArray.addElement(1);
+		myArray.addElement(2);
+		myArray.addElement(3);
+		myArray.addElement(4);
+		myArray.addElement(5);
+		myArray.addElement(6);
+		myArray.addElement(7);
+		myArray.addElement(8);
+		myArray.addElement(9);
+		System.out.println("*********************To String***********************");
+		System.out.println(myArray);
+		
+		System.out.println("**********************Using Iterator*****************");
+
+		Iterator iterator = myArray.iterator();
+		while (iterator.hasNext()) {
+			System.out.print(iterator.next()+" ");
+		}
+		System.out.println();
+		System.out.println("*******************Using For Each*********************");
+
+		for (Object object : myArray) {
+			System.out.print(object+" ");
+		}
+
+	}
+
+}

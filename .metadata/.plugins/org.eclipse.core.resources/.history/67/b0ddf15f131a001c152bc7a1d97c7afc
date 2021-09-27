@@ -1,0 +1,18 @@
+package com.technoelevate.multithreading;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class EntrySetDemo {
+
+	public static void main(String[] args) {
+
+		Map<Integer,String> map=new HashMap<Integer, String>();
+		for(int i=10;i<=100;i=i+10) {
+			map.put(i, "demo"+i);
+		}
+		System.out.println(map);
+		
+	}
+
+}

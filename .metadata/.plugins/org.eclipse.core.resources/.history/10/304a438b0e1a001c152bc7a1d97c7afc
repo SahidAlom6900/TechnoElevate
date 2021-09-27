@@ -1,0 +1,21 @@
+package com.technoelevate.multithreading.classes;
+
+public class Godown {
+
+	int product;
+
+	public Godown(int product) {
+		this.product = product;
+	}
+
+	public void store(int item) {
+		product += item;
+	}
+
+	public void purchase(int item) {
+		while (item > this.product) {
+			System.out.println("Out Of Stock ! Please Wiat...");
+		}
+	}
+
+}

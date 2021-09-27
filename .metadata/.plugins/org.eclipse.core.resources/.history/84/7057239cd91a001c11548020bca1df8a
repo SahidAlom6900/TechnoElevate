@@ -1,0 +1,32 @@
+package com.technoelevate.test;
+
+public class Assignment {
+private int apple;
+private int orage;
+public Assignment(int apple, int orage) {
+	super();
+	this.apple = apple;
+	this.orage = orage;
+}
+public Assignment() {
+	super();
+	// TODO Auto-generated constructor stub
+}
+public int getApple() {
+	return apple;
+}
+public void setApple(int apple) {
+	this.apple = apple;
+}
+public int getOrage() {
+	return orage;
+}
+public void setOrage(int orage) {
+	this.orage = orage;
+}
+@Override
+public String toString() {
+	return  apple + ", o" + orage + "]";
+}
+
+}

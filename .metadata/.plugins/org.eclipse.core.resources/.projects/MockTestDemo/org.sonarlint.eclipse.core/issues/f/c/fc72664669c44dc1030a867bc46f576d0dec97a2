@@ -1,0 +1,25 @@
+
+\
+java:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ8İòìÀ/HïRMAJORZBUG
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(¨•áÎ8ˆÖìÀ/HğRMAJORZ
+CODE_SMELL
+}
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ïÙôšúÿÿÿÿ8ñ“ìÀ/HñRMINORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8İòìÀ/HòRMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¿ıÿ8ï©ÍëÀ/HóRMAJORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8éËÙìÀ/HôRMAJORZBUG
+e
+java:S1108"2Move this "catch" keyword to a new dedicated line.(ä ¹€8éËÙìÀ/HõRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ôª€óùÿÿÿÿ8ˆÖìÀ/HöRMAJORZ
+CODE_SMELL
+e
+java:S1108"2Move this "catch" keyword to a new dedicated line.(ä ¹€8İòìÀ/H÷RMINORZ
+CODE_SMELL
+x
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ıùß÷8ñ“ìÀ/HøRMINORZ
+CODE_SMELL

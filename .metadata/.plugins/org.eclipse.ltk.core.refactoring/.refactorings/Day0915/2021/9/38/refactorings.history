@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;arrl&apos; in &apos;com.ty.arraylist.DemoLinkList.main(...)&apos; to &apos;linkedList&apos;&#x0D;&#x0A;- Original project: &apos;Day0915&apos;&#x0D;&#x0A;- Original element: &apos;com.ty.arraylist.DemoLinkList.main(String[]).arrl&apos;&#x0D;&#x0A;- Renamed element: &apos;arrl&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;arrl&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.ty.arraylist{DemoLinkList.java[DemoLinkList~main~\[QString;@arrl!223!251!228!231!QList;!0!false" name="linkedList" references="true" stamp="1631691182367" version="1.0"/>
+</session>

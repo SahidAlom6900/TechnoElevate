@@ -1,0 +1,9 @@
+package com.technoelevate.main;
+
+public class MockTestMain {
+	public static void main(String[] args) {
+
+		
+		
+	}
+}

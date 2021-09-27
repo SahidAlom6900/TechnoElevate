@@ -1,0 +1,19 @@
+package com.technoelevate.multithreading;
+
+import com.technoelevate.multithreading.classes.MyThread;
+
+public class MultiThreadingDemo {
+
+	public static void main(String[] args) {
+		MyThread mt=new MyThread();
+		mt.start();
+		for(char i='A';i<='Z';i++) {
+			try {
+				Thread.sleep(100);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+			System.out.println(i+" "+Thread.currentThread().getName());
+		}
+	}
+}

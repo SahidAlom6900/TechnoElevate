@@ -1,0 +1,9 @@
+
+
+java:S2272L"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ŞÄ•ùÿÿÿÿ8ˆ­Œò¾/HùRMINORZBUG
+O
+java:S1643="Use a StringBuilder instead.(»…«8ˆ­Œò¾/HüRMINORZ
+CODE_SMELL
+[
+java:S1125H"(Remove the unnecessary boolean literals.(ÔóåÏ8ˆ­Œò¾/HúRMINORZ
+CODE_SMELL

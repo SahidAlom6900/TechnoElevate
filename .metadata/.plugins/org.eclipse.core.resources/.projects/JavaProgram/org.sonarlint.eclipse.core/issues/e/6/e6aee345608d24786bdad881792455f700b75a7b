@@ -1,0 +1,9 @@
+
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(¶í„ÿ8èÂÛéÀ/H´RMAJORZ
+CODE_SMELL
+W
+java:S1659"Declare "b" on a separate line.(ûø«Èıÿÿÿÿ8èÂÛéÀ/HµRMINORZ
+CODE_SMELL
+W
+java:S1659"Declare "c" on a separate line.(ûø«Èıÿÿÿÿ8èÂÛéÀ/H¶RMINORZ
+CODE_SMELL

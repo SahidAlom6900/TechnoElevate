@@ -1,0 +1,28 @@
+
+X
+java:S2039",Explicitly declare the visibility for "bal".(­æûH³RMINORZ
+CODE_SMELL
+x
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØH¹RCRITICALZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(ƒÊÖìıÿÿÿÿH·RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ™ã¶øÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+^
+java:S2039"2Explicitly declare the visibility for "bank_name".(•ö§êH¯RMINORZ
+CODE_SMELL
+m
+java:S2039"<Explicitly declare the visibility for "account_holder_name".(ÁíÙïúÿÿÿÿH°RMINORZ
+CODE_SMELL
+[
+java:S2039"/Explicitly declare the visibility for "number".(ôŸ©…H±RMINORZ
+CODE_SMELL
+a
+java:S2039"0Explicitly declare the visibility for "pincode".(µ’µÊúÿÿÿÿH´RMINORZ
+CODE_SMELL
+]
+java:S1108"1Move this "else" keyword to a new dedicated line.(ÔÍØHµRMINORZ
+CODE_SMELL
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(Ÿ™ã¶øÿÿÿÿH¸RMAJORZ
+CODE_SMELL

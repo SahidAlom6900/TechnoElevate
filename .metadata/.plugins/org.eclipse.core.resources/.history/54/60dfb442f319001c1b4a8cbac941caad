@@ -1,0 +1,9 @@
+package com.technoelevate.multithreading.classes;
+
+public class Printing {
+	
+	public void deposite() {
+		
+	}
+
+}

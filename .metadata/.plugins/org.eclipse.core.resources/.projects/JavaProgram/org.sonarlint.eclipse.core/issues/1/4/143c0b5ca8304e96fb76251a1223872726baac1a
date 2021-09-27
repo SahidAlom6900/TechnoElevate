@@ -1,0 +1,8 @@
+
+d
+java:S1108"1Move this "else" keyword to a new dedicated line.(å¥‡8éÛÇéÀ/HşRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(íñŞşÿÿÿÿ8éÛÇéÀ/HÿRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÈô“8éÛÇéÀ/H€RMAJORZ
+CODE_SMELL

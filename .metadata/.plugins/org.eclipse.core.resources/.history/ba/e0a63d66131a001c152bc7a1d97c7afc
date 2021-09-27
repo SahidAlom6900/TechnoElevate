@@ -1,0 +1,30 @@
+package com.technoelevate.multithreading;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+
+public class EntrySetDemo {
+
+	public static void main(String[] args) {
+
+		Map<Integer,String> map=new HashMap<Integer, String>();
+		for(int i=10;i<=100;i=i+10) {
+			map.put(i, "demo"+i);
+		}
+		System.out.println(map);
+		System.out.println("***********Entry Set************");
+		Set<Entry<Integer, String>> entrySet = map.entrySet();
+		for (Entry<Integer, String> entry : entrySet) {
+			System.out.println(entry.getKey()+"   "+entry.getValue());
+			if(entry.getKey().equals(10)) {
+				String setValue = entry.setValue("DEMO");
+				System.out.println("Old value :"+setValue);
+			}
+		}
+		System.out.println("***************After Set value*********************");
+		
+	}
+
+}

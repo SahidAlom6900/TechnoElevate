@@ -1,0 +1,24 @@
+
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(®…”8ö”Ãî½/HĞRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ò–Ä©ıÿÿÿÿ8ö”Ãî½/HËRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(·»Ş®üÿÿÿÿ8ö”Ãî½/HÑRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ñ£§ûÿÿÿÿ8ö”Ãî½/HÏRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(§ÒÕµûÿÿÿÿ8ö”Ãî½/HÉRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(®…”8ö”Ãî½/HÎRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(”Öóú8ö”Ãî½/HÍRMAJORZ
+CODE_SMELL
+µ
+java:S1192
+"Define a constant instead of duplicating this literal "**************************************************************" 4 times.(®…”8ö”Ãî½/HÒRCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(®…”8ö”Ãî½/HÌRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(®…”8ö”Ãî½/HÊRMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+package com.technoelevate.java8.main;
+
+import com.technoelevate.java8.cla.MethodReferenceClass;
+import com.technoelevate.java8.inter.MethodReferenceInter;
+
+public class MethodReferenceMain {
+	
+	public static void main(String[] args) {
+		MethodReferenceInter methodReferenceInter=MethodReferenceClass::staticReference;
+		System.out.println(methodReferenceInter);
+		MethodReferenceClass methodReferenceClass = new MethodReferenceClass();
+
+		MethodReferenceInter methodReferenceInter1=methodReferenceClass::reference;
+		System.out.println(methodReferenceInter1);
+	}
+
+}

@@ -1,0 +1,73 @@
+package com.technoelevate;
+
+public class Bank {
+	String bank_name;
+	String account_holder_name;
+	long number;
+	String accountNumber=bank_name+number;
+	float bal;
+	int pincode;
+
+	public Bank(String bank_name, String account_holder_name, long number, float bal, int pincode) {
+		this.bank_name = bank_name;
+		this.account_holder_name = account_holder_name;
+		this.number = number;
+		this.bal = bal;
+		this.pincode = pincode;
+		this.accountNumber=bank_name+number;
+	}
+
+	public Bank(String bank_name, String account_holder_name, long number, float bal) {
+		this.bank_name = bank_name;
+		this.account_holder_name = account_holder_name;
+		this.number = number;
+		this.bal = bal;
+		this.accountNumber=bank_name+number;
+	}
+
+	public Bank() {
+	}
+
+	public void deposite(float amount) {
+		if (bal > 0) {
+			bal = bal + amount;
+		}
+	}
+
+	public void details() {
+		System.out.println("Bank Name : " + bank_name + "\nAccoun Holder Name :" + account_holder_name
+				+ "\nAccoun Number :" + accountNumber + "\nBlance : " + bal);
+	}
+
+	public void withdraw(float amount) {
+		if (bal > 0 && amount < bal) {
+			bal = bal - amount;
+		}
+	}
+	
+	public void setPincode(int pincode) {
+		this.pincode=pincode;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

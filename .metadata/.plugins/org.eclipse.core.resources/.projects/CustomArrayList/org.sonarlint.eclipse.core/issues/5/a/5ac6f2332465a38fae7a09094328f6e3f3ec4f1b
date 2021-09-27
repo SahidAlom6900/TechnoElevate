@@ -1,0 +1,11 @@
+
+j	java:S106("9Replace this use of System.out or System.err by a logger.(¶¾™8É‘þî¾/HÔRMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(úÈŸä8ª¡…ï¾/HÕRMAJORZ
+CODE_SMELL
+k	java:S106+"9Replace this use of System.out or System.err by a logger.(¿Ôøö8¼…„ï¾/HÖRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(¿Ôøö8’¹üì¾/H×RMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(úÈŸä8åÍîî¾/HØRMAJORZ
+CODE_SMELL

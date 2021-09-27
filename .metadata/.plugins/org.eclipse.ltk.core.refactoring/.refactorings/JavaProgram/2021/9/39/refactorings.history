@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;MapSortUsingArraylist.java&apos; to &apos;CollectionMap/src/com.technoelevate.exp&apos;&#x0D;&#x0A;- Original project: &apos;JavaProgram&apos;&#x0D;&#x0A;- Destination element: &apos;CollectionMap/src/com.technoelevate.exp&apos;&#x0D;&#x0A;- Original element: &apos;com.technoelevate.number.MapSortUsingArraylist.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=CollectionMap/src&lt;com.technoelevate.exp" element1="/src&lt;com.technoelevate.number{MapSortUsingArraylist.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1632379251445" units="1" version="1.0"/>
+</session>

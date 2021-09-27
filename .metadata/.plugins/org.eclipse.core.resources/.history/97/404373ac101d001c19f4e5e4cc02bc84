@@ -1,0 +1,13 @@
+package com.technoelevate.JUnitDemo;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+public class MathUtilTest {
+	@Test
+	public void addTest() {
+		MathUtil mathUtil = new MathUtil();
+		assertEquals(10, mathUtil.add(1, 9),"This method adds two number");
+	}
+}

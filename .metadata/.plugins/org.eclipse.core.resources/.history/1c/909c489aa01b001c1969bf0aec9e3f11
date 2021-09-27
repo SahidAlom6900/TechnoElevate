@@ -1,0 +1,18 @@
+package com.technoelevate.cla;
+
+public class Godown {
+	private int quantity;
+
+	public Godown(int quantity) {
+		this.quantity = quantity;
+	}
+	public void store(int quantity) {
+		this.quantity+=quantity;
+	}
+	public void purchesed(int quantity) {
+		while(this.quantity<quantity) {
+			System.err.println("Out of Stock!!!");
+		}
+		this.quantity-=quantity;
+	}
+}

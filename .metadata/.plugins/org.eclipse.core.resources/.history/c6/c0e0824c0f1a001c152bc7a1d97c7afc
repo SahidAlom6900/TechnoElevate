@@ -1,0 +1,25 @@
+package com.technoelevate.multithreading.classes;
+
+public class Godown {
+
+	int product;
+
+	public Godown(int product) {
+		this.product = product;
+	}
+
+	synchronized public void store(int item) {
+		product += item;
+		System.out.println("Item added Successfully...");
+	}
+
+	synchronized public void purchase(int item) {
+		while (item > this.product) {
+			System.out.println("Out Of Stock ! Please Wiat...");
+			
+		}
+		this.product-=item;
+		System.out.println("Successfully Purchased...");
+	}
+
+}

@@ -1,0 +1,12 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÁäL8÷²š¾/HRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¿Ò€8÷²š¾/H‚RMAJORZ
+CODE_SMELL
+e
+java:S1108"2Move this "catch" keyword to a new dedicated line.(”ı¾8÷²š¾/HƒRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(£ËÓÕ8÷²š¾/H„RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÈõã8÷²š¾/H…RMAJORZ
+CODE_SMELL

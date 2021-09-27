@@ -1,0 +1,53 @@
+
+i	java:S106;"9Replace this use of System.out or System.err by a logger.(â‘ ˆùÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+i	java:S106E"9Replace this use of System.out or System.err by a logger.(ª­ÇßùÿÿÿÿHRMAJORZ
+CODE_SMELL
+d	java:S106."9Replace this use of System.out or System.err by a logger.(²áÃïH˜RMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(ü¼îé8ğÈé¾/H¨RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ª­ÇßùÿÿÿÿH–RMAJORZ
+CODE_SMELL
+p	java:S106T"9Replace this use of System.out or System.err by a logger.(ÿ²Ù…ùÿÿÿÿ8ğÈé¾/H RMAJORZ
+CODE_SMELL
+i	java:S106U"9Replace this use of System.out or System.err by a logger.(î‘¤ÎøÿÿÿÿHRMAJORZ
+CODE_SMELL
+d
+java:S1612T",Replace this lambda with a method reference.(ÿ²Ù…ùÿÿÿÿ8ØÍÀå¾/HšRMINORZ
+CODE_SMELL
+i	java:S106<"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+p	java:S106L"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8ç®åÇ¾/HRMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿHRMAJORZ
+CODE_SMELL
+©
+java:S1192""uDefine a constant instead of duplicating this literal "----------------------------------------------------" 5 times.(ÆÇâÈıÿÿÿÿHRCRITICALZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿ8ğÈé¾/H¥RMAJORZ
+CODE_SMELL
+p	java:S106B"9Replace this use of System.out or System.err by a logger.(Û¡àÈûÿÿÿÿ8Àã‘ë¾/H›RMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+i	java:S1065"9Replace this use of System.out or System.err by a logger.(ÆÇâÈıÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+ 
+java:S1319S"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Êè…ÈøÿÿÿÿHœRMINORZ
+CODE_SMELL
+d	java:S106("9Replace this use of System.out or System.err by a logger.(Ÿ£´¤H§RMAJORZ
+CODE_SMELL
+e
+java:S1108K"2Move this "catch" keyword to a new dedicated line.(”ı¾8ç®åÇ¾/H£RMINORZ
+CODE_SMELL
+•
+java:S4165F"bRemove this useless assignment; "quit" already holds the assigned value along all execution paths.(™¯Û8ğÈé¾/H—RMAJORZ
+CODE_SMELL
+p	java:S106V"9Replace this use of System.out or System.err by a logger.(Ò¤é÷üÿÿÿÿ8²œå“¿/H¸RMAJORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬Ã÷åH¦RMINORZ
+CODE_SMELL
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(·Ê¾¿üÿÿÿÿ8ğÈé¾/H™RMAJORZ
+CODE_SMELL

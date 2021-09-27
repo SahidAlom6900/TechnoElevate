@@ -1,0 +1,45 @@
+
+v
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8ðãË”À/H»RBLOCKERZBUG
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÐþžH±RMAJORZ
+CODE_SMELL
+e
+java:S1108
+"2Move this "catch" keyword to a new dedicated line.(ä ¹€8ðãË”À/HºRMINORZ
+CODE_SMELL
+}
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(­è¦øøÿÿÿÿ8’Ù–•À/H¾RMINORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8’Ù–•À/H¿RMAJORZBUG
+v
+java:S2276 "CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8ÖÁ¢•À/HÕRBLOCKERZBUG
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(ÜÐþž8ÖÁ¢•À/HÖRMAJORZ
+CODE_SMELL
+ƒ
+java:S1192"MDefine a constant instead of duplicating this literal "Printing... " 3 times.(ÜÐþž8ÖÁ¢•À/H×RCRITICALZ
+CODE_SMELL
+e
+java:S1108"2Move this "catch" keyword to a new dedicated line.(ä ¹€8’Ù–•À/HÀRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÐþž8’Ù–•À/HÂRMAJORZ
+CODE_SMELL
+Š
+java:S2142
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ðãË”À/H¹RMAJORZBUG
+Š
+java:S2142""^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÖÁ¢•À/HÓRMAJORZBUG
+e
+java:S1108""2Move this "catch" keyword to a new dedicated line.(ä ¹€8ÖÁ¢•À/HÔRMINORZ
+CODE_SMELL
+x
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(õÓÚì8ðãË”À/H¸RMINORZ
+CODE_SMELL
+v
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8’Ù–•À/HÁRBLOCKERZBUG
+}
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ù›Ü©ùÿÿÿÿ8ÖÁ¢•À/HÒRMINORZ
+CODE_SMELL
+r
+java:S1118":Add a private constructor to hide the implicit public one.(‚Õ¢”üÿÿÿÿ8Ýá»•À/HéRMAJORZ
+CODE_SMELL

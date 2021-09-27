@@ -1,0 +1,12 @@
+package com.technoelevate.java8.cla;
+
+public class Student {
+	
+	int i;
+
+	public Student(int i) {
+		this.i = i;
+		System.out.println("find Student"+i);
+	}
+
+}

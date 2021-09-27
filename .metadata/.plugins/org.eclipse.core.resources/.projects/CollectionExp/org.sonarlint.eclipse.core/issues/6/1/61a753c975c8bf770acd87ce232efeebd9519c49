@@ -1,0 +1,24 @@
+
+Œ
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼»äË8Êœü“¿/HÚRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ8Êœü“¿/HÓRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ş›‹8Êœü“¿/HÖRMAJORZ
+CODE_SMELL
+P
+java:S2386
+"Make this member "protected".(¼»äË8ü••¿/HÛRMINORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ü••¿/HÜRMINORZ
+CODE_SMELL
+†
+java:S1104
+"SMake hashSet a static final constant or non-public and provide accessors if needed.(¼»äË8ü••¿/HİRMINORZ
+CODE_SMELL
+`
+java:S1444
+"-Make this "public static hashSet" field final(¼»äË8ü••¿/HŞRMINORZ
+CODE_SMELL

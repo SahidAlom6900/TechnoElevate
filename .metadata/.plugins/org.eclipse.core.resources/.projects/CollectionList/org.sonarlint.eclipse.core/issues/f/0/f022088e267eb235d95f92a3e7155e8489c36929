@@ -1,0 +1,23 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¡¯’ûÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+Š
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(š¾ü´ıÿÿÿÿHRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ıšªíHÉRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8¬ÛŠ™¿/HÑRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8«ı…™¿/HÎRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ô€üñ8¬ÛŠ™¿/HĞRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(÷¾˜Ëıÿÿÿÿ8«ı…™¿/HÍRMAJORZ
+CODE_SMELL
+b
+java:S3740 "/Provide the parametrized type for this generic.(şñ®¹8Íß§¿/HõRMAJORZ
+CODE_SMELL
+Y
+java:S1481 "&Remove this unused "k" local variable.(şñ®¹8Íß§¿/HöRMINORZ
+CODE_SMELL

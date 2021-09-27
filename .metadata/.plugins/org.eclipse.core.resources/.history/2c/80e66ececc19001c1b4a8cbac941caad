@@ -1,0 +1,12 @@
+package com.technoelevate.multithreading;
+
+import java.util.Map;
+
+import java.util.Map;
+
+public class MultiThreadingDemo {
+	
+	Thread thread=new Thread();
+	Map t;
+
+}

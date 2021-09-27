@@ -1,0 +1,9 @@
+package com.technoelevate.java8.main;
+
+public class MethodReference {
+	
+	public void reference() {
+		System.out.println("Method Reference >>>");
+	}
+
+}

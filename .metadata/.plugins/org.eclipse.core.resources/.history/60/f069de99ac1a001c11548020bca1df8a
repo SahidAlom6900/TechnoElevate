@@ -1,0 +1,10 @@
+package com.technoelevate.java8.main;
+
+import com.technoelevate.java8.cla.MethodReferenceClass;
+import com.technoelevate.java8.inter.MethodReferenceInter;
+
+public class MethodReferenceMain {
+
+	MethodReferenceInter methodReferenceInter=MethodReferenceClass::reference;
+
+}

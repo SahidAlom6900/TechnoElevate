@@ -1,0 +1,32 @@
+
+r
+java:S1854":Remove this useless assignment to local variable "keySet".(©ı±ûÿÿÿÿ8¤öùŠÀ/HúRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Âé¯üÿÿÿÿ8ğÅéŠÀ/HûRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8â¤çŠÀ/HüRMAJORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ŞÛ‹Á/HıRMINORZ
+CODE_SMELL
+c
+java:S1481"+Remove this unused "keySet" local variable.(©ı±ûÿÿÿÿ8¤öùŠÀ/HşRMINORZ
+CODE_SMELL
+s	java:S125,"<This block of commented-out lines of code should be removed.(¥Å­Ñùÿÿÿÿ8Û¬ÛŠÀ/HÿRMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ú¾—8’ãŠÁ/H†RMINORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ŞÛ‹Á/H‡RMINORZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ŞÛ‹Á/HˆRMINORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(ëÊĞüÿÿÿÿÿ8şÕœ›¿/H‰RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¬Š÷8’ãŠÁ/HŠRMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Éâ¯8ŞğÕ™¿/H‹RMINORZ
+CODE_SMELL

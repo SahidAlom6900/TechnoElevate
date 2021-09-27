@@ -1,0 +1,8 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ЌШвнюяяяяHЗRMAJORZ
+CODE_SMELL
+ѓ
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(д №ЂHИRMAJORZBUG
+^
+java:S1108"2Move this "catch" keyword to a new dedicated line.(д №ЂHЙRMINORZ
+CODE_SMELL

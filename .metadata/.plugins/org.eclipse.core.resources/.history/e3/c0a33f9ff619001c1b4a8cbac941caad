@@ -1,0 +1,11 @@
+package com.technoelevate.multithreading.classes;
+
+public class Printing {
+	
+	public void print(int x,int y) {
+		for (int i = x; i < y; i++) {
+			System.out.println("Printing... "+i);
+		}
+	}
+
+}

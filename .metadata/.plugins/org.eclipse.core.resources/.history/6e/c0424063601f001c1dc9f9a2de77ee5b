@@ -1,0 +1,15 @@
+package com.technoelevate1;
+
+import com.technoelevate.CalculatorJar;
+
+
+
+public class ImplJarFile {
+
+	public static void main(String[] args) {
+		int add = CalculatorJar.add(10, 20);
+		System.out.println(add);
+
+	}
+
+}

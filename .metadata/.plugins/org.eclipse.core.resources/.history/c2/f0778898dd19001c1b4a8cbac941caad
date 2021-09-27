@@ -1,0 +1,15 @@
+package com.technoelevate.multithreading.classes;
+
+public class MyThread extends Thread{
+	@Override
+	public void run() {
+		for(char i='a';i<='z';i++) {
+			try {
+				Thread.sleep(100);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+			System.out.print(i+" ");
+		}
+	}
+}

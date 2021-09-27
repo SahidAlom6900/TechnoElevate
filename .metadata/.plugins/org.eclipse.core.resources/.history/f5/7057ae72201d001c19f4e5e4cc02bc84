@@ -1,0 +1,19 @@
+package com.technoelevate.JUnitDemo;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.Test;
+
+public class MathUtilTesst{
+	@Test
+	public void addTest() {
+		MathUtil mathUtil = new MathUtil();
+		assertEquals(10, mathUtil.add(1, 9),"Add Value");
+	}
+	@Test
+	public void areaTest() {
+		MathUtil mathUtil = new MathUtil();
+		double expected=3.141592653589793;
+		assertEquals(expected, mathUtil.area(2),"Add Value");
+	}
+}

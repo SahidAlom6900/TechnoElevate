@@ -1,0 +1,21 @@
+package com.technoelevate.java8;
+
+import java.time.LocalDate;
+
+public class Java8Feature {
+
+	public static void main(String[] args) {
+
+		//Lambda
+		//Method Ref
+		//Function interface
+		//foreach
+		//stream api
+		//date time api
+		LocalDate now = LocalDate.now();
+		LocalDate of = LocalDate.of(2021, 9, 2);
+		int compareTo = of.compareTo(now);
+		System.out.println(compareTo);
+	}
+
+}

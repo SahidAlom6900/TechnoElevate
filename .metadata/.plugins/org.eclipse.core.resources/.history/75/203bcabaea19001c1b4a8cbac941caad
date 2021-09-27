@@ -1,0 +1,4 @@
+package com.technoelevate.multithreading.classes;
+
+public class Text extends A,B{
+}

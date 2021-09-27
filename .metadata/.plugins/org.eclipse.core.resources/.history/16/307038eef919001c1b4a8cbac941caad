@@ -1,0 +1,5 @@
+package com.technoelevate.multithreading.classes;
+
+public class PrintingThreadDemo2 {
+
+}
